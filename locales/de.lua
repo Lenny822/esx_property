@@ -1,4 +1,4 @@
-Locales['de'] = {
+return {
 	--- CCTV Strings ------
 
 	["take_picture"] = "Foto Machen",
@@ -73,7 +73,7 @@ Locales['de'] = {
 	["property_create"] = "Haus Erstellen",
 	["property_manage"] = "Häuser bearbeiten",
 	["realestate_command"] = "Immobilienmarkler Menü",
-	["realestate_command_desc"] = "(ESX Property) Immobilienmarktler Schnellaktionen Öffnen",
+	["realestate_command_desc"] = "Immobilienmarktler Schnellaktionen Öffnen",
 	["enter_office"] = "~b~Büro wird betreten.",
 	["enter_office_error"] = "Du kannst nicht das Büro betreten!",
 	["exit_office"] = "Büro verlassen.",
