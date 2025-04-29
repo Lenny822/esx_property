@@ -19,7 +19,7 @@ return {
 	["place"] = "Möbel Platzieren",
 	["delete_furni"] = "Löschen",
 	["confirm_buy"] = "Willst du wirklich %s kaufen?",
-	["price"] = "Price: %s€",
+	["price"] = "Preis: %s€",
 	["yes"] = "Ja",
 	["no"] = "Nein",
 	["action"] = "Du %s ~b~%s~s~ !",
