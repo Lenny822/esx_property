@@ -1,4 +1,4 @@
-Locales['fi'] = {
+return {
      --- CCTV Strings ------
 
      ["take_picture"] = "Ota kuva",
